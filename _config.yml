@@ -1,0 +1,28 @@
+name: qualitycoder
+favicon: null
+layout_spectrum: 0.2682786686345935
+typography_spectrum: 0.20341329253278673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7967647237237543
+  lightness: 0.12298735976219177
+  saturation: 0.542417831486091
+  rhythmicContrast: 0.38577986345626414
+purpose: []
