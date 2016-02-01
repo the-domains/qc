@@ -2,6 +2,7 @@ name: qualitycoder
 favicon: null
 layout_spectrum: 0.2682786686345935
 typography_spectrum: 0.20341329253278673
+title: "QualityCoder's Test Site"
 cta:
   domain: null
   bucket: null
