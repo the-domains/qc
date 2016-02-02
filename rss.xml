@@ -4,14 +4,14 @@
         <description><![CDATA[QualityCoder's Test Site]]></description>
         <link>https://thegrid.ai/qc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 20:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 20:32:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/qc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is bold</p>]]></description>
+            <title><![CDATA[Boldy]]></title>
+            <description><![CDATA[<article><h1>Boldy</h1><p>This is bold</p></article>]]></description>
             <link>https://thegrid.ai/qc/4208190a-719a-443b-966f-ac3c3db608af/index.html</link>
             <guid isPermaLink="false">4208190a-719a-443b-966f-ac3c3db608af</guid>
-            <pubDate>Tue, 02 Feb 2016 20:30:42 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 20:32:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yoda]]></title>
