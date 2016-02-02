@@ -4,14 +4,14 @@
         <description><![CDATA[QualityCoder's Test Site]]></description>
         <link>https://thegrid.ai/qc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 03:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 03:25:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/qc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test post. Not sure how to work this thing yet.</p>]]></description>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>This is a test post. Not sure how to work this thing yet.</p></article>]]></description>
             <link>https://thegrid.ai/qc/b67f64a4-4367-4565-8186-2ada4874165b/index.html</link>
             <guid isPermaLink="false">b67f64a4-4367-4565-8186-2ada4874165b</guid>
-            <pubDate>Tue, 02 Feb 2016 03:24:03 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 03:25:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Home]]></title>
