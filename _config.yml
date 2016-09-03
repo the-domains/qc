@@ -1,20 +1,13 @@
 name: qualitycoder
-favicon: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8375c913-c3cb-4597-b7b9-9051931f6d95.png
 layout_spectrum: 0.30403
 typography_spectrum: 0.60558
-title: "QualityCoder's Test Site"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#000000'
@@ -27,3 +20,10 @@ color:
   saturation: 0.542417831486091
   rhythmicContrast: 0.38577986345626414
 purpose: []
+title: QualityCoder's Test Site
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
